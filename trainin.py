@@ -19,7 +19,7 @@ import lightgbm as lgb
 from itertools import combinations
 
 class CFG:
-    input_dir = '/Users/muratersenunal/Desktop/pythonprojects/AmericanExpress/'
+    input_dir = 'AmericanExpress/'
     seed = 42
     n_folds = 5
     target = 'target'
