@@ -6,3 +6,5 @@ Features are in .parquet form since parquet uses less memory.Detailed explanatio
 You may use modify this code also if you need csv format of the features dont hesitate to contact me.
 Featuresincsv folder contains features in csv format
 For running training.py put testa.parquet,traina.parquet and training.py in the same folder also modify the line 22 according to your current working directory.
+#EDIT:
+I couldnt upload the data files because they are big in size (Evenparquets) please contact me for raw data
