@@ -9,4 +9,4 @@ For running training.py put testa.parquet,traina.parquet and training.py in the 
 
 
 #EDIT:
-I couldnt upload the data files because they are big in size (Evenparquets) please contact me for raw data
+I couldnt upload the data files because they are big in size (Evenparquets) please contact me for raw data: mersenunal@gmail.com
