@@ -1,6 +1,6 @@
 # AmericanExpressKagglecontest
 This is my python code for kaggle contest:https://www.kaggle.com/competitions/amex-default-prediction
-I used a simple LGBM algorithm in the code. Amex score of the submission is:0.80467
+I used a simple LGBM algorithm in the code. Amex score of the submission is:0.80467(2257 th place among 4876 contributors)
 Data folder contains testa.parquet,traina.parquet and train_labels.csv which are test features train features and train labels respectively.
 Features are in .parquet form since parquet uses less memory.Detailed explanation can be found here:https://www.kaggle.com/competitions/amex-default-prediction/discussion/327138
 You may use modify this code also if you need csv format of the features dont hesitate to contact me.
